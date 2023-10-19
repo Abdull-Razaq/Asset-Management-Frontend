@@ -16,3 +16,16 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+ /* Companies  */
+
+ Route::get('/company', [App\Http\Controllers\CompanyController::class, 'index']);
+ Route::get('/company/create', [CompanyController::class, 'create'])->name('company.create');
+
+
+
+ /* Licences  */
+
+ Route::get('/licences', function () {
+    return view('licences/index');
+});
