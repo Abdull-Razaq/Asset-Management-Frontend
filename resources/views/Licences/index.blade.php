@@ -53,7 +53,7 @@
     @include('layouts.sidebar')
     <!-- /.sidebar -->
   </aside>
-
+  <div class="content-wrapper">
 
   <div class="col-md-10 col-md-offset-1">
 <table class="table table-hover table-bordered ">
@@ -129,6 +129,7 @@
     <!-- Control sidebar content goes here -->
   </aside>
   <!-- /.control-sidebar -->
+</div>
 </div>
 <!-- ./wrapper -->
 
