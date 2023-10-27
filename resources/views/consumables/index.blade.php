@@ -96,7 +96,7 @@
           <tr>
             
             <td scope="col">2</td>
-            <td scope="col">Cardstock</td>
+            <td scope="col">Laserjet Toner</td>
             <td scope="col"></td>
             <td scope="col">Printing Paper</td>
             <td scope="col">244455</td>
@@ -127,7 +127,7 @@
           </tr>
           <tr>
             <td scope="col">3</td>
-            <td scope="col">Cardstock</td>
+            <td scope="col">Laserjet paper</td>
             <td scope="col"></td>
             <td scope="col">Printing Paper</td>
             <td scope="col">244455</td>
