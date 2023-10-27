@@ -1,3 +1,12 @@
+ 
+ <!-- Main Sidebar Container -->
+ <aside class="main-sidebar sidebar-dark-primary elevation-4">
+  <!-- Brand Logo -->
+  <a href="/" class="brand-link">
+    <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+    <span class="brand-text font-weight-light">Asset Mngt Kns</span>
+  </a>
+
 <div class="sidebar">
     
 
@@ -9,10 +18,10 @@
         <!-- Add icons to the links using the .nav-icon class
              with font-awesome or any other icon font library -->
         <li class="nav-item menu-open">
-          <a href="#" class="nav-link active">
+          <a href="/" class="nav-link active">
             <i class="nav-icon fas fa-tachometer-alt"></i>
             <p>
-              Dashboard
+               Dashboard
               {{-- <i class="right fas fa-angle-left"></i> --}}
             </p>
           </a>
@@ -21,7 +30,7 @@
         
         <li class="nav-item">
           <a href="#" class="nav-link">
-            <i class="nav-icon fas fa-copy"></i>
+            <i class="fas fa-barcode fa-fw" aria-hidden="true"></i>
             <p>
               Assets
               <i class="fas fa-angle-left right"></i>
@@ -32,7 +41,7 @@
             <li class="nav-item">
               <a href="pages/layout/top-nav.html" class="nav-link">
                 <i class="far fa-circle nav-icon"></i>
-                <p>Deployed</p>
+                <p> Deployed</p>
               </a>
             </li>
             <li class="nav-item">
@@ -61,52 +70,58 @@
               </li>
             
             
-            
-            
-            
           </ul>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link">
-            <i class="nav-icon fas fa-chart-pie"></i>
+          <a href="/licences" class="nav-link">
+            <i class="far fa-save fa-fw"></i>
             <p>
-              Licences
+                Licences
+            </p>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="/components" class="nav-link">
+            <i class="far fa-hdd fa-fw"></i>
+            <p>
+                Components
               
             </p>
           </a>
         </li>
         <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-chart-pie"></i>
+              <i class="far fa-keyboard fa-fw"></i>
+              
               <p>
-                Accesories
+                  Accesories
                 
               </p>
             </a>
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-chart-pie"></i>
+              <i class="fas fa-tint fa-fw"></i>
               <p>
-                Consumables
+                  Consumables
                 
               </p>
             </a>
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-chart-pie"></i>
+              <i class="fas fa-users fa-fw"></i>
               <p>
-                People
+                     People
                 
               </p>
             </a>
           </li>
           <li class="nav-item">
             <a href="/company" class="nav-link">
-              <i class="nav-icon fas fa-chart-pie"></i>
+              <i class="fa fa-laptop fa-fw"></i>
               <p>
-                Company
+                  Company
                 
               </p>
             </a>
@@ -118,3 +133,4 @@
     </nav>
     <!-- /.sidebar-menu -->
   </div>
+</aside>

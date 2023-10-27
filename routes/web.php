@@ -23,6 +23,13 @@ Route::get('/', function () {
  Route::get('/company/create', [CompanyController::class, 'create'])->name('company.create');
 
 
+ /* components  */
+
+ Route::get('/components', function () {
+    return view('components/index');
+});
+
+
 
  /* Licences  */
 
