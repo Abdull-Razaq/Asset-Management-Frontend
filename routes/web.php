@@ -36,3 +36,10 @@ Route::get('/', function () {
  Route::get('/licences', function () {
     return view('licences/index');
 });
+
+
+ /* Consumables  */
+
+ Route::get('/consumables', function () {
+    return view('consumables/index');
+});

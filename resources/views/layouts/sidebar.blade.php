@@ -100,7 +100,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="/consumables" class="nav-link">
               <i class="fas fa-tint fa-fw"></i>
               <p>
                   Consumables
