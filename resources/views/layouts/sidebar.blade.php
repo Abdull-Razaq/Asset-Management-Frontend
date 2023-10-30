@@ -90,7 +90,7 @@
           </a>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="/accesories" class="nav-link">
               <i class="far fa-keyboard fa-fw"></i>
               
               <p>

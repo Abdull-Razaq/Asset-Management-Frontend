@@ -44,6 +44,13 @@ Route::get('/', function () {
     return view('consumables/index');
 });
 
+
+// Accesories
+
+Route::get('/accesories', function () {
+    return view('accesories/index');
+});
+=======
 // Assets 
 // Deployed
     Route::get('/deployed', function () {

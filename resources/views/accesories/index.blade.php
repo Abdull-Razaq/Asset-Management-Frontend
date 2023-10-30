@@ -49,10 +49,9 @@
             <th scope="col">name</th>
             <th scope="col">Model No.</th>
             <th scope="col">Category</th>
-            <th scope="col">Order No.</th>
+            <th scope="col">Location</th>
             <th scope="col">Item No.</th>
             <th scope="col">Total</th>
-            <th scope="col">Remaining</th>
             <th scope="col">Min. QTY</th>
             <th scope="col">Checkout</th>
             <th scope="col">Actions</th>
@@ -65,10 +64,9 @@
             <td scope="col">Cardstock</td>
             <td scope="col"></td>
             <td scope="col">Printing Paper</td>
-            <td scope="col">244455</td>
+            <td scope="col">office</td>
             <td scope="col">567888</td>
             <td scope="col">10</td>
-            <td scope="col">8</td>
             <td scope="col">2</td>
             <td>
                 <button type="button" class="btn btn-sm bg-maroon">Checkout</button> 
@@ -95,14 +93,13 @@
           </tr>
           <tr>
             
-            <td scope="col">2</td>
-            <td scope="col">Laserjet Toner</td>
+          <td scope="col">1</td>
+            <td scope="col">Cardstock</td>
             <td scope="col"></td>
             <td scope="col">Printing Paper</td>
-            <td scope="col">244455</td>
+            <td scope="col">office</td>
             <td scope="col">567888</td>
             <td scope="col">10</td>
-            <td scope="col">8</td>
             <td scope="col">2</td>
             <td>
                 <button type="button" class="btn btn-sm bg-maroon">Checkout</button> 
@@ -126,14 +123,13 @@
             </td>
           </tr>
           <tr>
-            <td scope="col">3</td>
-            <td scope="col">Laserjet paper</td>
+            <td scope="col">1</td>
+            <td scope="col">Cardstock</td>
             <td scope="col"></td>
             <td scope="col">Printing Paper</td>
-            <td scope="col">244455</td>
+            <td scope="col">office</td>
             <td scope="col">567888</td>
             <td scope="col">10</td>
-            <td scope="col">8</td>
             <td scope="col">2</td>
             <td>
                 <button type="button" class="btn btn-sm bg-maroon">Checkout</button> 
