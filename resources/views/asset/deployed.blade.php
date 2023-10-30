@@ -62,14 +62,14 @@
           <tr>
             
             <td scope="col">1</td>
-            <td scope="col">Cardstock</td>
-            <td scope="col"></td>
-            <td scope="col">Printing Paper</td>
-            <td scope="col">244455</td>
-            <td scope="col">567888</td>
-            <td scope="col">10</td>
-            <td scope="col">8</td>
-            <td scope="col">2</td>
+            <td scope="col">Windows Server</td>
+            <td scope="col">678909</td>
+            <td scope="col">7899065</td>
+            <td scope="col">GFT56809GHY</td>
+            <td scope="col">Server</td>
+            <td scope="col">Asset Management Service</td>
+            <td scope="col">89,653</td>
+            <td scope="col">127.0.0.1</td>
             <td>
                 <button type="button" class="btn btn-sm bg-maroon">Checkout</button> 
             </td>
@@ -96,14 +96,14 @@
           <tr>
             
             <td scope="col">2</td>
-            <td scope="col">Cardstock</td>
-            <td scope="col"></td>
-            <td scope="col">Printing Paper</td>
+            <td scope="col">Board Room Table</td>
+            <td scope="col">001</td>
+            <td scope="col">BOARD-ROOM/001</td>
             <td scope="col">244455</td>
-            <td scope="col">567888</td>
-            <td scope="col">10</td>
-            <td scope="col">8</td>
-            <td scope="col">2</td>
+            <td scope="col">Furniture</td>
+            <td scope="col">Board Room </td>
+            <td scope="col">250,000</td>
+            <td scope="col">null</td>
             <td>
                 <button type="button" class="btn btn-sm bg-maroon">Checkout</button> 
             </td>
@@ -127,14 +127,14 @@
           </tr>
           <tr>
             <td scope="col">3</td>
-            <td scope="col">Cardstock</td>
-            <td scope="col"></td>
-            <td scope="col">Printing Paper</td>
+            <td scope="col">Lenovo Laptop</td>
+            <td scope="col">764457</td>
+            <td scope="col">GHTY677</td>
             <td scope="col">244455</td>
-            <td scope="col">567888</td>
-            <td scope="col">10</td>
-            <td scope="col">8</td>
-            <td scope="col">2</td>
+            <td scope="col">Laptops</td>
+            <td scope="col">Abdirizak</td>
+            <td scope="col">80,000</td>
+            <td scope="col">127.0.0.1</td>
             <td>
                 <button type="button" class="btn btn-sm bg-maroon">Checkout</button> 
             </td>
