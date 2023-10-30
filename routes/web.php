@@ -43,3 +43,24 @@ Route::get('/', function () {
  Route::get('/consumables', function () {
     return view('consumables/index');
 });
+
+// Assets 
+// Deployed
+    Route::get('/deployed', function () {
+        return view('asset/deployed');
+    });
+
+// Ready to Deploy
+    Route::get('/ready-to-deploy', function () {
+        return view('asset/ready');
+    });
+
+// Pending
+    Route::get('/pending', function () {
+        return view('asset/pending');
+    });
+
+// Due for Audit
+    Route::get('/due-for-audit', function () {
+        return view('asset/audit');
+    });

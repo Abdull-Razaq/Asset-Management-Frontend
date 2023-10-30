@@ -6,19 +6,19 @@
         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="index3.html" class="nav-link">Dashboard</a>
+        <a href="/" class="nav-link">Dashboard</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">Assets</a>
+        <a href="/deployed" class="nav-link">Assets</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">Components</a>
+        <a href="/components" class="nav-link">Components</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">licences</a>
+        <a href="/licences" class="nav-link">Licences</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">Companies</a>
+        <a href="/consumables" class="nav-link">Consumables</a>
       </li>
     </ul>
 
