@@ -50,7 +50,7 @@ Route::get('/', function () {
 Route::get('/accesories', function () {
     return view('accesories/index');
 });
-=======
+
 // Assets 
 // Deployed
     Route::get('/deployed', function () {
