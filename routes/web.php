@@ -43,3 +43,9 @@ Route::get('/', function () {
  Route::get('/consumables', function () {
     return view('consumables/index');
 });
+
+// Accesories
+
+Route::get('/accesories', function () {
+    return view('accesories/index');
+});
